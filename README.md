@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Julio!
 
-<!--
-**juliohenriquec/juliohenriquec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Desenvolvedor de jogos apaixonado por experiências 2D e 3D  
+💻 Trabalho com Godot (GDScript e CSharp)
 
-Here are some ideas to get you started:
+## 🚀 Projetos em destaque
+- Endless Runner 3D
+- VoxelForge(Atualmente em pausa)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- Godot Engine
+- GDScript
+- C#
+
+## 📫 Contato
+- Itch.io: https://lujihc.itch.io/
