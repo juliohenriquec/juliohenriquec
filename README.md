@@ -11,6 +11,8 @@
 - Godot Engine
 - GDScript
 - C#
+- Python
 
 ## 📫 Contato
 - Itch.io: https://lujihc.itch.io/
+- Linkedin: https://www.linkedin.com/in/julio-henrique-cardoso-medeiros-60bb57286/
